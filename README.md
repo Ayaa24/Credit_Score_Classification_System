@@ -1,4 +1,4 @@
-##Credit Score Classification App
+#Credit Score Classification App#
 This project demonstrates a machine learning pipeline to predict a customer's credit score based on their financial and demographic information. The project uses a Neural Network (Multi-Layer Perceptron) for the classification task and a Streamlit web application to provide a user-friendly interface for making predictions.
 
 ##Dataset
