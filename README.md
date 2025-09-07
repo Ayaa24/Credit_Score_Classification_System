@@ -14,11 +14,11 @@ To run this project, you need to have Python installed on your system. You will 
 
    1-Clone the repository:
 
-      git clone [https://github.com/](https://github.com/)[your-username]/[your-repository-name].git
+      git clone https://github.com/Ayaa24/Credit_Score_Classification_System.git
 
   2-Navigate to the project directory:
 
-     cd [your-repository-name]
+     cd Credit_Score_Classification_System
 
   3-Install the required libraries:
 
