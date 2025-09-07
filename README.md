@@ -34,8 +34,7 @@ This will launch the app in your default web browser, where you can input new da
 
 **Model Training**  
 
-The trained model files are included in this repository for convenience. However, if you wish to retrain the model, you can run the training script:
+The trained model file is saved in Google Drive in this link
 
-   python credit_score_nn_classifier.py
+  https://drive.google.com/file/d/1osInhjEuuQVcLuFNQBdmV7vWyLuQJjdi/view?usp=sharing
 
-This script will re-train the Neural Network and save new model files, which can then be used by the Streamlit application.
