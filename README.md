@@ -1,4 +1,4 @@
-#Credit Score Classification App#
+##Credit Score Classification App##
 This project demonstrates a machine learning pipeline to predict a customer's credit score based on their financial and demographic information. The project uses a Neural Network (Multi-Layer Perceptron) for the classification task and a Streamlit web application to provide a user-friendly interface for making predictions.
 
 ##Dataset
@@ -18,12 +18,12 @@ To run this project, you need to have Python installed on your system. You will 
 
  3-Install the required libraries:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ##Running the Application
 To start the Streamlit web application, simply run the following command in your terminal from the project's root directory:
 
-streamlit run app.py
+    streamlit run app.py
 
 This will launch the app in your default web browser, where you can input new data and get a real-time credit score prediction.
 
